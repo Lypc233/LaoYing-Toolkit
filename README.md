@@ -3,4 +3,4 @@
 
 集中管理核心调度、系统优化、DLSS模型等功能
 
-提供LaoYing Toolkit下载与版本更新
+release提供LaoYing Toolkit下载与版本更新
