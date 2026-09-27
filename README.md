@@ -1,7 +1,7 @@
 # LaoYing Toolkit
 一款面向Windows游戏环境的轻量级性能调校综合工具
 
-集中管理核心调度、系统优化、DLSS模型等功能
+集中管理核心调度、系统优化、DLSS模型、内存超频、pbo自动分核心负压等功能
 
 Release提供LaoYing Toolkit下载与版本更新
 
