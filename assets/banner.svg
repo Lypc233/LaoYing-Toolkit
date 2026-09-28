@@ -1,41 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">LaoYing Toolkit · 老嘤超频优化工具箱</title>
-  <desc id="desc">深色背景与蓝色标志，搭配核心调度、系统优化和降压超频的功能标签。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">LaoYing Toolkit</title>
+  <desc id="desc">LaoYing Toolkit logo and wordmark. Performance tuning for Windows.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111B28"/>
-      <stop offset="1" stop-color="#090E16"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1000" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#262626"/>
+      <stop offset="0.65" stop-color="#121212"/>
+      <stop offset="1" stop-color="#0D0D0D"/>
     </linearGradient>
-    <linearGradient id="brand" x1="878" y1="68" x2="1090" y2="278" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00E0EC"/>
-      <stop offset="1" stop-color="#0867F5"/>
-    </linearGradient>
-    <linearGradient id="line" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#45CFE5"/>
-      <stop offset="1" stop-color="#163047" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#69809B" fill-opacity="0.16"/>
-    </pattern>
   </defs>
-  <rect x="0.5" y="0.5" width="1199" height="339" rx="20" fill="url(#background)" stroke="#263446"/>
-  <path d="M760 1H1180A19 19 0 0 1 1199 20V320A19 19 0 0 1 1180 339H760Z" fill="url(#grid)"/>
-  <path d="M56 41H1144" stroke="url(#line)"/>
-  <g font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif">
-    <text x="58" y="87" fill="#59CFE4" font-size="16" font-weight="600" letter-spacing="4">WINDOWS GAMING TOOLKIT</text>
-    <text x="54" y="162" fill="#F1F6FC" font-size="60" font-weight="700" letter-spacing="-2">LaoYing Toolkit</text>
-    <text x="58" y="207" fill="#A9BACD" font-size="24" letter-spacing="3">老嘤超频优化工具箱</text>
-    <g font-size="16" fill="#C6D4E3" text-anchor="middle">
-      <rect x="58" y="251" width="116" height="35" rx="7" fill="#152536" stroke="#294057"/>
-      <text x="116" y="274">核心调度</text>
-      <rect x="190" y="251" width="116" height="35" rx="7" fill="#152536" stroke="#294057"/>
-      <text x="248" y="274">系统优化</text>
-      <rect x="322" y="251" width="116" height="35" rx="7" fill="#152536" stroke="#294057"/>
-      <text x="380" y="274">降压超频</text>
-    </g>
+  <rect width="1280" height="280" rx="6" fill="url(#background)"/>
+  <g transform="translate(96 49) scale(0.95)" fill="#F5F5F5">
+    <path d="M4 3Q0 0 0 6V137Q0 141 3 144L45 189Q48 192 52 192H126Q130 192 133 189L175 144Q178 141 178 137V6Q178 0 174 3L131 44Q128 47 128 52V114Q128 118 125 121L110 137Q107 140 103 140H75Q71 140 68 137L53 121Q50 118 50 114V52Q50 47 47 44Z"/>
+    <rect x="75" y="66" width="28" height="28" rx="3"/>
   </g>
-  <rect x="851" y="41" width="257" height="257" rx="53" fill="#0D1723" stroke="#203349"/>
-  <rect x="865" y="55" width="229" height="229" rx="43" stroke="#1A293B"/>
-  <path d="M895 91Q891 87 891 93V226Q891 230 894 233L936 278Q939 281 943 281H1017Q1021 281 1024 278L1066 233Q1069 230 1069 226V93Q1069 87 1065 91L1022 133Q1019 136 1019 141V203Q1019 207 1016 210L1001 226Q998 229 994 229H966Q962 229 959 226L944 210Q941 207 941 203V141Q941 136 938 133Z" fill="url(#brand)" stroke="#42CFEF" stroke-width="1.2" transform="translate(0 -14)"/>
-  <rect x="966" y="144" width="28" height="28" rx="4" fill="#00DDEB" stroke="#60EDFC"/>
+  <g font-family="Bahnschrift, Segoe UI, sans-serif" font-weight="300">
+    <text x="358" y="130" fill="#F5F5F5" font-size="59" letter-spacing="0.6">LaoYing Toolkit</text>
+    <text x="360" y="170" fill="#C5C5C5" font-size="23">Performance tuning for Windows.</text>
+    <text x="360" y="201" fill="#9B9B9B" font-size="21">CPU Scheduling. DLSS. AMD Tuning.</text>
+  </g>
 </svg>
