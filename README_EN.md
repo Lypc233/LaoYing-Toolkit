@@ -8,7 +8,7 @@
 
 [简体中文](README.md) · **English**
 
-LaoYing Toolkit is a performance tuning utility for Windows gaming PCs, developed and maintained by [老嘤评测](https://space.bilibili.com/520490678). It is free to use. This repository provides downloads, release notes and issue tracking; 
+LaoYing Toolkit is a performance tuning utility for Windows gaming PCs, developed and maintained by [老嘤评测](https://space.bilibili.com/520490678). It is free to use. This repository provides downloads, release notes and issue tracking.
 
 ## Features
 
