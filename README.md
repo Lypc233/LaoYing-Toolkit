@@ -41,7 +41,7 @@ DLSS、内存超频和 PBO 需要对应硬件、固件与驱动支持，以软�
 ## 交流与反馈
 
 - 视频教程：[B 站 · 老嘤评测](https://space.bilibili.com/520490678)
-- QQ 交流群：`1042550392`
+- QQ 交流群：`1128807301`
 - 问题反馈：[GitHub Issues](https://github.com/Lypc233/LaoYing-Toolkit/issues)
 
 反馈时请附上工具箱版本、硬件型号、Windows 版本、复现步骤和必要截图。
