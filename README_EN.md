@@ -8,7 +8,7 @@
 
 [简体中文](README.md) · **English**
 
-LaoYing Toolkit is a performance tuning utility for Windows gaming PCs, developed and maintained by [老嘤评测](https://space.bilibili.com/520490678). It is free to use. This repository provides downloads, release notes and issue tracking; the toolkit's source code is not published here.
+LaoYing Toolkit is a performance tuning utility for Windows gaming PCs, developed and maintained by [老嘤评测](https://space.bilibili.com/520490678). It is free to use. This repository provides downloads, release notes and issue tracking; 
 
 ## Features
 
@@ -41,7 +41,7 @@ Overclocking and undervolting can cause instability. A successful write does not
 ## Community and feedback
 
 - Video tutorials: [老嘤评测 on Bilibili](https://space.bilibili.com/520490678) (Chinese)
-- QQ group: `1042550392`
+- QQ group: `1128807301`
 - Bug reports: [GitHub Issues](https://github.com/Lypc233/LaoYing-Toolkit/issues)
 
 Please include the toolkit version, hardware models, Windows version, steps to reproduce and relevant screenshots when reporting a problem.
